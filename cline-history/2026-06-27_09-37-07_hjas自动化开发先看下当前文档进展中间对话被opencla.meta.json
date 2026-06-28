@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "session_id": "1782506456351",
+  "source": "vscode",
+  "pid": 2369269,
+  "started_at": "2026-06-27T09:37:07.478Z",
+  "ended_at": "2026-06-27T09:37:07.574Z",
+  "exit_code": 0,
+  "status": "completed",
+  "interactive": true,
+  "provider": "deepseek",
+  "model": "deepseek-v4-flash",
+  "cwd": "/home/ubuntu/HJATS",
+  "workspace_root": "/home/ubuntu/HJATS",
+  "enable_tools": true,
+  "enable_spawn": false,
+  "enable_teams": false,
+  "metadata": {
+    "title": "hjas自动化开发。先看下当前文档进展。中间对话被openclaw误删了。我先告诉你干到哪了。  现在正在调试实盘",
+    "isFavorited": false,
+    "size": 647777,
+    "totalCost": 0.015716512,
+    "tokensIn": 0,
+    "tokensOut": 20961,
+    "cacheWrites": 55542,
+    "cacheReads": 739840,
+    "modelId": "deepseek-v4-flash",
+    "migratedFromLegacyTask": true
+  },
+  "messages_path": "/home/ubuntu/.cline/data/sessions/1782506456351/1782506456351.messages.json"
+}

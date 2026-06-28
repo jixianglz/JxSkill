@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "session_id": "1782554588987_ia895",
+  "source": "vscode",
+  "pid": 2372856,
+  "started_at": "2026-06-27T10:03:08.992Z",
+  "ended_at": "2026-06-27T17:08:10.718Z",
+  "exit_code": 1,
+  "status": "failed",
+  "interactive": true,
+  "provider": "deepseek",
+  "model": "deepseek-v4-flash",
+  "cwd": "/home/ubuntu/HJATS",
+  "workspace_root": "/home/ubuntu/HJATS",
+  "enable_tools": true,
+  "enable_spawn": false,
+  "enable_teams": false,
+  "prompt": "我正在进行一个自动化交易系统的开发 。当前遇到很多AI 工具的问题  。所以我希望 每次 更新平台的时候 新的AI 都能够快速理解 上下文 。知道当前项目 进度 ， 状态  ，问题  和需求 。 在 HJATS 下建立个相关目录。\n\n之前已",
+  "metadata": {
+    "title": "我正在进行一个自动化交易系统的开发 。当前遇到很多AI 工具的问题  。所以我希望 每次 更新平台的时候 新的AI 都能够快速理解 上下文 。知道当前项目 进度 ， 状态  ，问题  和需求 。 在 HJATS 下建立个相关目录。\n\n之前已",
+    "isFavorited": false,
+    "size": 1174211,
+    "totalCost": 0.5459366804000001,
+    "tokensIn": 175,
+    "tokensOut": 501,
+    "cacheWrites": 0,
+    "cacheReads": 199168,
+    "modelId": "deepseek-v4-pro",
+    "checkpoint": {
+      "latest": {
+        "ref": "3367a0049d0d7ec3154fd3aaa8d5757e4155e59e",
+        "createdAt": 1782578866225,
+        "runCount": 218,
+        "kind": "stash"
+      },
+      "history": [
+        {
+          "ref": "3367a0049d0d7ec3154fd3aaa8d5757e4155e59e",
+          "createdAt": 1782578866225,
+          "runCount": 218,
+          "kind": "stash"
+        }
+      ]
+    },
+    "aggregatedAgentsCost": 0.5459366804000001,
+    "usage": {
+      "inputTokens": 27571033,
+      "outputTokens": 86622,
+      "cacheReadTokens": 26471040,
+      "cacheWriteTokens": 0,
+      "totalCost": 0.5459366804000001
+    },
+    "aggregateUsage": {
+      "inputTokens": 27571033,
+      "outputTokens": 86622,
+      "cacheReadTokens": 26471040,
+      "cacheWriteTokens": 0,
+      "totalCost": 0.5459366804000001
+    },
+    "terminal_marker": "failed_external_process_exit",
+    "terminal_marker_at": "2026-06-27T17:08:10.718Z",
+    "terminal_marker_pid": 2372856,
+    "terminal_marker_source": "stale_session_reconciler"
+  },
+  "messages_path": "/home/ubuntu/.cline/data/sessions/1782554588987_ia895/1782554588987_ia895.messages.json"
+}

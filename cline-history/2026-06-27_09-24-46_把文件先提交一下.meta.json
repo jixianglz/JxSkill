@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "session_id": "1782552286871_e5j70",
+  "source": "vscode",
+  "pid": 2359944,
+  "started_at": "2026-06-27T09:24:46.873Z",
+  "ended_at": "2026-06-27T09:36:23.293Z",
+  "exit_code": 0,
+  "status": "completed",
+  "interactive": true,
+  "provider": "deepseek",
+  "model": "deepseek-v4-flash",
+  "cwd": "/home/ubuntu/HJATS",
+  "workspace_root": "/home/ubuntu/HJATS",
+  "enable_tools": true,
+  "enable_spawn": false,
+  "enable_teams": false,
+  "prompt": "把文件先提交一下",
+  "metadata": {
+    "title": "把文件先提交一下",
+    "isFavorited": false,
+    "size": 23151,
+    "totalCost": 0.0016658992000000003,
+    "tokensIn": 2737,
+    "tokensOut": 1055,
+    "cacheWrites": 0,
+    "cacheReads": 25216,
+    "modelId": "deepseek-v4-flash",
+    "checkpoint": {
+      "latest": {
+        "ref": "de7ec1dee74a8284e74d6d91981808cba3b98ed8",
+        "createdAt": 1782552918092,
+        "runCount": 12,
+        "kind": "commit"
+      },
+      "history": [
+        {
+          "ref": "de7ec1dee74a8284e74d6d91981808cba3b98ed8",
+          "createdAt": 1782552918092,
+          "runCount": 12,
+          "kind": "commit"
+        }
+      ]
+    },
+    "aggregatedAgentsCost": 0.0016658992000000003,
+    "usage": {
+      "inputTokens": 96062,
+      "outputTokens": 2638,
+      "cacheReadTokens": 91264,
+      "cacheWriteTokens": 0,
+      "totalCost": 0.0016658992000000003
+    },
+    "aggregateUsage": {
+      "inputTokens": 96062,
+      "outputTokens": 2638,
+      "cacheReadTokens": 91264,
+      "cacheWriteTokens": 0,
+      "totalCost": 0.0016658992000000003
+    }
+  },
+  "messages_path": "/home/ubuntu/.cline/data/sessions/1782552286871_e5j70/1782552286871_e5j70.messages.json"
+}
